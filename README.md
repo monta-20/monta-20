@@ -18,6 +18,3 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=monta-20&show_icons=true&locale=en&layout=compact" alt="monta-20" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=monta-20&show_icons=true&locale=en" alt="monta-20" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=monta-20&" alt="monta-20" /></p>
