@@ -2,8 +2,7 @@
 <h1 align="center">Hi 👋, I'm Montassar Ben Brahim</h1>
 <h3 align="center">A Passionate Data Engineer and Full-Stack Developer</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
-<p align="left"> 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=monta-20" alt="monta-20" /></a> </p>
+
 
 - 🌱 I’m currently learning **MERN, MEAN, Spring Boot, CI/CD**
 
