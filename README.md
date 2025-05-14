@@ -4,7 +4,7 @@
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 
-- 🌱 I’m currently learning **MERN, MEAN, Spring Boot, CI/CD**
+- 🌱 I’m currently learning **MERN, MEAN, Django, .NET, Docker, RabbitMQ **
 
 - 📫 How to reach me **montassarbenbrahim29@gmail.com**
 
